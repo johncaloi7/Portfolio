@@ -3,7 +3,7 @@ import about from "../assets/about.jpg";
 function About() {
   return (
     <section
-      className="p-16 md:p-0 md:container mx-auto md:h-[23rem] 
+      className=" container p-16 md:p-0 md:container mx-auto md:h-[23rem] 
     md:bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% 
     md:mt-20 rounded-lg"
     >
@@ -11,7 +11,8 @@ function About() {
       <div className="h-full flex flex-col md:flex-row md:gap-8">
         <section className="w-full md:p-0 md:w-72 h-full md:flex-initial">
           <img
-            className="object-cover md: md:h-full rounded-lg h-96 w-full md:rounded-r-none"
+            className="object-cover md: md:h-full rounded-lg 
+            h-96 w-full md:rounded-r-none"
             src={about}
             alt="profile"
           />

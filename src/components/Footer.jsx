@@ -1,6 +1,10 @@
 function Footer() {
   return (
-    <footer className="footer p-10 bg-gradient-to-r from-emerald-500 to-sky-500 text-white mt-12">
+    <footer
+      className="footer p-10 
+    bg-gradient-to-r from-emerald-500 to-sky-500 
+    text-white mt-12"
+    >
       <section>
         <svg
           width="50"
