@@ -32,21 +32,6 @@ function Works() {
             Creating landing page for small businesses such as clinics.
           </li>
         </ul>
-
-        <h2 className="text-lg md:text-xl mb-2 font-semibold text-slate-800">
-          Curriculum Reviewer
-        </h2>
-        <p className="mb-4 italic text-slate-500 text-md">2023 - Present</p>
-        <ul className="max-w-5xl mb-6 text-slate-700 list-disc">
-          <li className="mb-2 ml-4">
-            Hired by educators to guide them with technological subjects they
-            teach in SHS.
-          </li>
-          <li className="mb-2 ml-4">
-            Creating short and easy to digest explanations for students planning
-            to take the path of web development.
-          </li>
-        </ul>
       </section>
 
       <button className="bg-cyan-600 p-2.5 rounded-md mt-4 text-white">
