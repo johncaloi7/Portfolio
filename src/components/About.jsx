@@ -3,8 +3,8 @@ import about from "../assets/about.jpg";
 function About() {
   return (
     <section
-      className="px-32 md:p-0 md:container mx-auto md:h-[23rem] 
-    md:bg-gradient-to-r from-indigo-300 from-10% via-sky-500 via-30% to-emerald-500 to-90% 
+      className=" container p-16 md:p-0 md:container mx-auto md:h-[23rem] 
+    md:bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% 
     md:mt-20 rounded-lg"
     >
       {/* container */}
